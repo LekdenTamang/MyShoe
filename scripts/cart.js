@@ -28,7 +28,7 @@ function updateSummaryCart(){
   if(cart.length === 0){
     cartContainer.innerHTML = `<div class="container my-5">
     <div class="p-5 text-center bg-body-tertiary rounded-3">
-    <img src="/images/shopping-bag-icon.webp" class="img-fluid" alt="shopping bag icon" style="width:100px">
+    <img src="images/shopping-bag-icon.webp" class="img-fluid" alt="shopping bag icon" style="width:100px">
       <h1 class="text-body-emphasis">Hey, it feels so light!</h1>
       <p class="col-lg-8 mx-auto fs-5 text-muted">
       There is Nothing in your bag. Lets add some items.
