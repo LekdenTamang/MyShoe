@@ -9,7 +9,7 @@ let seconds = document.querySelector('.seconds');
 
 
 
-let countDownDate = new Date("Jan 5, 2024").getTime(); //setting the countdown date
+let countDownDate = new Date("Feb 14, 2024").getTime(); //setting the countdown date
 
 let countDown = setInterval(() => {
 
